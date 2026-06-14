@@ -1,0 +1,21 @@
+event_id,title,category_type,event_category_name,venue_name,city,state,country,get_in_price,stats_total_quantity,event_utc_datetime
+106933995,Iceboy - The Musical,THEATER,Musical,Goodman Theatre - Albert Theatre,Chicago,IL,US,10581.0,6,2026-06-26 00:30:00+00:00
+106935242,Iceboy - The Musical,THEATER,Musical,Goodman Theatre - Albert Theatre,Chicago,IL,US,10581.0,6,2026-06-27 00:30:00+00:00
+106930533,Iceboy - The Musical,THEATER,Musical,Goodman Theatre - Albert Theatre,Chicago,IL,US,10581.0,6,2026-06-21 00:30:00+00:00
+106933115,Iceboy - The Musical,THEATER,Musical,Goodman Theatre - Albert Theatre,Chicago,IL,US,10581.0,6,2026-06-25 00:30:00+00:00
+89470563,New York Knicks at San Antonio Spurs (NBA Finals Game 7 San Antonio Home Game 4) (If Necessary),SPORT,NBA Basketball,Frost Bank Center,San Antonio,TX,US,4301.0,184,2026-06-20 00:30:00+00:00
+89470562,New York Knicks at Oklahoma City Thunder (NBA Finals Game 7 Oklahoma City Home Game 4) (If Necessary),SPORT,NBA Basketball,Paycom Center,Oklahoma City,OK,US,3715.0,141,2026-06-20 00:30:00+00:00
+97029824,Vegas Golden Knights at Montreal Canadiens (Stanley Cup Finals Game 7 Montreal Home Game 4) (Date TBD) (If Necessary),SPORT,NHL Hockey,Bell Centre,Montreal,QC,CA,3348.0,2,2026-06-24 03:59:00+00:00
+132860092,[M28] Mexico v South Korea (Group A - World Cup),SPORT,Soccer,Estadio Akron,Guadalajara,JAL,MX,2104.0,21,2026-06-19 01:00:00+00:00
+855147,[M49] Scotland v Brazil (Group C - World Cup),SPORT,Soccer,Hard Rock Stadium,Miami Gardens,FL,US,1618.0,994,2026-06-24 22:00:00+00:00
+132860097,[M66] Uruguay v Spain (Group H - World Cup),SPORT,Soccer,Estadio Akron,Guadalajara,JAL,MX,1361.0,30,2026-06-27 00:00:00+00:00
+132860095,[M53] Czechia v Mexico (Group A - World Cup),SPORT,Soccer,Estadio Azteca,Mexico City,CMX,MX,1200.0,26,2026-06-25 01:00:00+00:00
+123797527,Mike Attack,CONCERT,Dance/Electronica,Palm Tree Beach Club,Las Vegas,NV,US,1194.0,12,2026-06-19 18:00:00+00:00
+1248671,Hamilton,THEATER,Musical,Tennessee Performing Arts Center - Andrew Jackson Hall,Nashville,TN,US,1177.0,15,2026-06-26 00:30:00+00:00
+113539177,2026 Taylor Fest - (6/19),CONCERT,Music Festivals,Woolys,Des Moines,IA,US,1165.0,10,2026-06-20 02:00:00+00:00
+97032231,Solid Sound Music and Arts Festival - Friday,CONCERT,Music Festivals,MASS MoCA,North Adams,MA,US,1159.0,6,2026-06-27 03:59:00+00:00
+112880169,TBD at Fort Wayne Komets (Kelly Cup Finals - Home Game 4) (Date TBD) (If Necessary),SPORT,Hockey,Allen County War Memorial Coliseum,Fort Wayne,IN,US,1124.0,189,2026-06-20 03:59:00+00:00
+855067,[M43] Argentina v Austria (Group J - World Cup),SPORT,Soccer,AT&T Stadium,Arlington,TX,US,1066.0,1103,2026-06-22 17:00:00+00:00
+855036,[M32] USA v Australia (Group D - World Cup),SPORT,Soccer,Lumen Field,Seattle,WA,US,994.0,1670,2026-06-19 19:00:00+00:00
+855189,[M56] Ecuador v Germany (Group E - World Cup),SPORT,Soccer,MetLife Stadium,East Rutherford,NJ,US,978.0,1873,2026-06-25 20:00:00+00:00
+137280195,Funny Bone Comedy School - Full Enrollment,THEATER,Comedy,Funny Bone - Virginia Beach,Virginia Beach,VA,US,977.0,1,2026-06-20 16:30:00+00:00

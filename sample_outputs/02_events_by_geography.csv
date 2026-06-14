@@ -1,0 +1,1617 @@
+country,state,city,event_count
+US,NV,Las Vegas,1136
+US,NY,New York,829
+US,IL,Chicago,324
+US,CA,Los Angeles,209
+US,NY,Brooklyn,195
+US,CA,San Francisco,181
+US,TN,Nashville,149
+US,OR,Portland,145
+US,CO,Denver,144
+US,TX,Houston,136
+US,PA,Philadelphia,136
+CA,ON,Toronto,135
+US,WA,Seattle,134
+US,MO,Branson,119
+US,TX,Austin,119
+US,DC,Washington DC,116
+US,GA,Atlanta,115
+US,CA,San Diego,111
+US,AZ,Phoenix,110
+US,TX,Dallas,107
+US,MN,Minneapolis,104
+US,DC,Washington,86
+US,MA,Boston,83
+CA,QC,Montreal,82
+US,MO,St. Louis,81
+US,UT,Salt Lake City,74
+US,NE,Omaha,71
+US,OH,Cleveland,70
+US,NC,Charlotte,67
+US,IN,Indianapolis,64
+US,MI,Detroit,63
+US,CA,Sacramento,62
+US,LA,New Orleans,58
+US,TX,Fort Worth,58
+US,OH,Columbus,58
+US,MO,Kansas City,56
+US,OK,Oklahoma City,55
+CA,BC,Vancouver,54
+US,FL,Orlando,54
+US,NC,Raleigh,53
+US,FL,Jacksonville,52
+US,MD,Baltimore,52
+US,NM,Albuquerque,49
+US,PA,Pittsburgh,49
+US,WI,Milwaukee,48
+US,NY,Buffalo,47
+US,OK,Tulsa,46
+US,FL,Tampa,45
+US,CA,Oakland,44
+US,KY,Louisville,43
+US,TX,San Antonio,40
+US,CT,Hartford,39
+US,OH,Cincinnati,39
+US,SC,Greenville,39
+US,NJ,Atlantic City,39
+US,MI,Grand Rapids,38
+US,NV,Reno,38
+US,VA,Richmond,38
+US,SC,Myrtle Beach,37
+US,WA,Spokane,37
+US,AL,Birmingham,35
+US,HI,Honolulu,35
+US,FL,Miami,35
+US,WI,Madison,35
+US,AZ,Tucson,35
+US,MO,Springfield,34
+US,FL,Sarasota,33
+CA,AB,Edmonton,33
+US,OR,Eugene,32
+US,CA,Santa Barbara,32
+US,ID,Boise,32
+US,UT,Sandy,32
+US,WA,Tacoma,31
+US,NC,Wilmington,30
+US,KS,Wichita,29
+US,TN,Chattanooga,29
+US,SC,Charleston,29
+CA,AB,Calgary,29
+US,ME,Portland,29
+US,CA,San Jose,28
+CA,ON,Stratford,28
+US,IA,Des Moines,28
+US,NC,Asheville,27
+US,NC,Greensboro,27
+US,TN,Memphis,27
+US,OR,Ashland,26
+US,CA,La Jolla,26
+US,IL,Schaumburg,26
+US,VA,Virginia Beach,25
+US,TX,El Paso,25
+US,CO,Colorado Springs,25
+CA,ON,Ottawa,24
+US,MA,Cambridge,24
+US,KY,Lexington,23
+US,TX,Arlington,23
+US,MS,Biloxi,22
+US,CA,West Hollywood,22
+US,AZ,Tempe,22
+US,VA,Arlington,21
+US,FL,Fort Lauderdale,21
+US,IN,Fort Wayne,21
+US,NY,Rochester,21
+US,RI,Providence,21
+US,VA,Abingdon,20
+US,CA,Ontario,20
+US,CA,Costa Mesa,20
+US,OR,Bend,20
+US,MA,Worcester,20
+US,OH,Dayton,20
+US,IL,Rosemont,20
+US,NC,Durham,19
+US,NY,Syracuse,19
+CA,ON,Niagara-on-the-Lake,19
+US,CO,Fort Collins,19
+US,CA,Berkeley,19
+US,MN,Saint Paul,19
+US,CA,Rohnert Park,19
+US,SC,North Myrtle Beach,19
+US,CA,Santa Monica,18
+US,CA,Anaheim,18
+US,PA,Lancaster,18
+US,OH,Akron,18
+US,NH,Manchester,18
+US,CT,Uncasville,18
+US,TX,Plano,18
+CA,QC,Brossard,18
+US,CA,Laguna Beach,17
+US,WY,Casper,16
+US,NJ,Asbury Park,16
+US,NY,Albany,16
+US,FL,Vero Beach,16
+US,TX,Corpus Christi,15
+CA,MB,Winnipeg,15
+US,NH,Portsmouth,15
+US,AZ,Gilbert,15
+US,NY,New York City,15
+US,TX,Irving,15
+US,CA,Del Mar,15
+US,IL,Springfield,15
+US,NJ,Newark,15
+US,MA,Somerville,15
+US,CA,Fresno,14
+US,NY,Poughkeepsie,14
+US,CT,Stamford,14
+US,PA,Allentown,14
+US,NJ,Red Bank,14
+US,NY,Saratoga Springs,14
+US,DE,Wilmington,14
+US,OH,Chillicothe,14
+US,GA,Alpharetta,14
+CA,SK,Saskatoon,14
+US,CA,Bakersfield,14
+US,TX,Grand Prairie,14
+US,PA,Strasburg,13
+US,UT,Pleasant Grove,13
+US,MD,Hagerstown,13
+US,MN,St Paul,13
+US,CA,Newport Beach,13
+US,IN,Carmel,13
+US,NJ,New Brunswick,13
+US,NJ,Beach Haven,13
+US,NM,Santa Fe,12
+US,GA,Woodstock,12
+US,AL,Hoover,12
+US,CA,Pleasanton,12
+US,CA,Folsom,12
+US,CA,Walnut Creek,12
+US,PA,New Hope,12
+US,VT,Burlington,12
+US,IL,Oakbrook Terrace,12
+US,FL,Naples,11
+US,IL,Decatur,11
+CA,ON,London,11
+US,FL,Fort Myers,11
+US,WI,Appleton,11
+US,GA,Duluth,11
+US,MA,Burlington,11
+US,MD,Columbia,11
+US,AZ,Scottsdale,11
+US,DE,Milton,11
+US,UT,Centerville,11
+CA,AB,Medicine Hat,11
+US,NC,High Point,11
+US,NC,Winston-Salem,11
+US,MI,Royal Oak,11
+US,UT,Cedar City,11
+US,CA,Solana Beach,11
+US,LA,Baton Rouge,11
+CA,ON,Mississauga,11
+US,NE,Olympia,11
+US,OK,Guthrie,11
+US,VA,Alexandria,11
+US,MN,Rochester,11
+US,IN,Shipshewana,11
+US,CO,Morrison,11
+US,VA,Norfolk,11
+US,PA,Center Valley,11
+US,AZ,Peoria,11
+US,CT,Bridgeport,11
+US,CA,Redding,11
+US,CA,Inglewood,11
+US,ME,Ogunquit,11
+US,TX,Amarillo,11
+US,MO,Columbia,10
+US,MO,St Charles,10
+CA,BC,Victoria,10
+US,IL,Lincolnshire,10
+US,WI,Eau Claire,10
+US,FL,Miami Beach,10
+US,CA,Modesto,10
+US,UT,Ivins,10
+US,IL,Peoria,10
+US,PA,Pottstown,10
+US,FL,Saint Petersburg,10
+US,VA,Vienna,10
+US,NV,Stateline,10
+US,CA,Temecula,10
+US,AZ,Chandler,10
+US,MA,Medford,10
+US,VA,Winchester,10
+US,OH,Perrysburg,10
+US,PA,Harrisburg,10
+US,VA,Charlottesville,10
+US,NJ,Millburn,10
+US,FL,Davie,10
+US,MT,Missoula,10
+US,PA,King of Prussia,10
+US,IN,Bloomington,10
+US,AL,Huntsville,10
+US,MO,Kirkwood,10
+US,IL,Joliet,10
+US,CA,Brea,9
+US,TX,Canyon,9
+US,OH,Youngstown,9
+US,GA,Macon,9
+US,NJ,Freehold,9
+US,WY,Cody,9
+US,TN,Johnson City,9
+US,KS,Kansas City,9
+US,NC,Roanoke Rapids,9
+US,NY,Woodstock,9
+US,NC,Flat Rock,9
+US,NC,Brevard,9
+CA,BC,Kelowna,9
+US,CT,East Haddam,9
+US,IA,West Des Moines,9
+CA,QC,Outremont,9
+US,MT,West Yellowstone,9
+US,TX,Frisco,9
+US,VA,Roanoke,9
+US,CO,Steamboat Springs,9
+US,ID,Idaho Falls,9
+US,NY,Manhattan,9
+US,,Las Vegas,9
+US,CA,Irvine,9
+US,OH,Liberty Township,9
+US,CT,New Haven,9
+US,WY,Cheyenne,9
+US,IN,South Bend,9
+US,MT,Kalispell,9
+US,FL,Clearwater,9
+US,VA,Hampton,9
+US,MA,Nantucket,9
+US,CO,Greenwood Village,9
+US,CA,Thousand Oaks,8
+US,PA,Reading,8
+US,CA,Highland,8
+US,NY,Glens Falls,8
+US,GA,Savannah,8
+CA,BC,New Westminster,8
+US,CA,Long Beach,8
+US,CA,Sunnyvale,8
+US,MD,Bowie,8
+US,MN,Bloomington,8
+US,NJ,Point Pleasant Beach,8
+US,OH,Lakewood,8
+US,IN,Warsaw,8
+US,NC,Jacksonville,8
+US,MN,Shakopee,8
+CA,ON,Port Hope,8
+US,KY,Bowling Green,8
+US,CA,Solvang,8
+US,UT,Provo,8
+US,CT,Fairfield,8
+CA,QC,Quebec City,8
+US,MI,Hamtramck,8
+US,IL,Aurora,8
+US,ND,Medora,8
+US,FL,Jupiter,8
+US,MN,Mankato,8
+US,VT,South Burlington,8
+US,PA,Sellersville,8
+US,WI,La Crosse,8
+US,PA,Warrendale,8
+US,NJ,Augusta,8
+US,NY,Pawling,8
+US,NJ,Wildwood,8
+US,CA,La Mirada,8
+US,NE,Lincoln,8
+US,ND,Minot,8
+US,FL,Ocala,8
+US,IL,Evanston,8
+US,PA,Homestead,8
+CA,NS,Halifax,8
+US,NY,Port Chester,8
+US,IA,Iowa City,8
+US,CA,West Sacramento,8
+US,GA,Lawrenceville,8
+US,NY,West Nyack,8
+US,GA,Columbus,8
+US,FL,Winter Park,8
+US,MI,Ann Arbor,8
+CA,ON,Owen Sound,7
+US,WI,Spring Green,7
+US,NC,Fayetteville,7
+US,CT,Trumbull,7
+US,OH,Sugarcreek,7
+US,CA,Pasadena,7
+US,IL,Marion,7
+US,CA,Stockton,7
+US,OH,Beavercreek,7
+US,VA,Danville,7
+US,FL,Hollywood,7
+US,WA,Kennewick,7
+US,PA,State College,7
+US,CA,Palm Springs,7
+US,NY,Wantagh,7
+US,OR,Hillsboro,7
+US,CT,Ridgefield,7
+US,FL,Daytona Beach,7
+US,MA,Lowell,7
+US,TN,Madison,7
+US,OR,Keizer,7
+US,IA,Clinton,7
+US,MD,Olney,7
+US,IN,Elkhart,7
+US,NC,Gastonia,7
+US,CA,San Juan Capistrano,7
+US,NY,Northport,7
+US,CA,Venice,7
+US,TX,Midland,7
+US,NC,Hickory,7
+US,IL,Bloomington,7
+US,GA,Rome,7
+US,TX,White Oak,7
+US,CA,San Luis Obispo,7
+US,MI,Midland,7
+US,VA,Fredericksburg,7
+US,TN,Cookeville,7
+US,GA,Blue Ridge,7
+US,NY,Homer,7
+US,NY,Chatham,7
+US,CA,Santa Ana,7
+US,KS,Salina,7
+US,AR,Springdale,7
+US,CA,Escondido,7
+US,IN,Evansville,7
+US,NC,Wake Forest,7
+US,ND,Dickinson,7
+CA,AB,Wainwright,7
+US,CT,Sharon,7
+US,CA,Oxnard,7
+US,FL,Pensacola,7
+US,NY,Bellport,7
+US,CO,Telluride,7
+US,PA,Altoona,7
+US,SC,Spartanburg,7
+US,NY,Queens,7
+US,WA,Yakima,7
+US,TN,Greeneville,7
+CA,SK,Regina,7
+US,PA,York,7
+US,TX,Lubbock,7
+US,WV,Charleston,7
+US,MN,Apple Valley,7
+US,TX,Tomball,7
+US,MA,Stoneham,7
+US,VT,Dorset,7
+US,CA,Paso Robles,6
+US,TX,Fredericksburg,6
+US,WI,Oconomowoc,6
+US,TX,Sugar Land,6
+US,WA,Wenatchee,6
+US,TX,Round Rock,6
+US,IL,Woodstock,6
+US,MO,Saint Charles,6
+US,VA,Lynchburg,6
+US,CA,Grass Valley,6
+US,WI,Greendale,6
+US,PA,Erie,6
+US,AL,Mobile,6
+US,PA,Kennett Square,6
+US,PA,Hershey,6
+US,RI,South Kingstown,6
+US,MA,Dennis,6
+US,CT,Manchester,6
+US,MD,Lutherville-Timonium,6
+US,MN,Duluth,6
+US,CA,Roseville,6
+US,NE,Gering,6
+US,WA,Bellingham,6
+US,WA,Ridgefield,6
+US,OR,Corvallis,6
+US,UT,Park City,6
+US,CO,Aspen,6
+US,MN,St Cloud,6
+US,FL,Dania Beach,6
+US,MT,Bozeman,6
+US,NC,Winston Salem,6
+US,UT,Logan,6
+US,NY,Garrison,6
+US,WI,Brookfield,6
+US,WI,Wausau,6
+US,CA,Carmel-By-The-Sea,6
+US,IA,Davenport,6
+US,PA,Williamsport,6
+US,MD,Aberdeen,6
+US,CO,Englewood,6
+US,TX,The Woodlands,6
+US,MI,Traverse City,6
+US,CA,Napa,6
+US,AZ,Flagstaff,6
+US,SC,North Charleston,6
+US,CA,Menlo Park,6
+US,MI,Paw Paw,6
+US,CA,Mill Valley,6
+US,IL,Geneva,6
+US,ID,Nampa,6
+US,MI,Battle Creek,6
+US,OH,Toledo,6
+US,MI,Kalamazoo,6
+US,VA,Bluefield,6
+US,PA,Wilkes-Barre,6
+US,UT,Ogden,6
+US,SD,Sioux Falls,6
+US,FL,St. Augustine,6
+US,IA,Burlington,6
+US,CA,Ventura,6
+US,CA,Yucaipa,6
+US,CA,Covina,6
+US,MD,Annapolis,6
+US,NC,Carrboro,6
+US,MI,Utica,6
+US,PA,Souderton,6
+US,WA,Naches,6
+US,WA,Puyallup,6
+US,NY,Ridgewood,6
+US,NY,Broadalbin,6
+US,OR,Salem,6
+US,WI,Wisconsin Dells,6
+US,WA,Auburn,6
+US,ND,Bismarck,6
+US,CT,Hamden,6
+CA,ON,Chatham,5
+US,WY,Sheridan,5
+US,MA,Mansfield,5
+US,NY,Oneonta,5
+US,DE,Dewey Beach,5
+US,CA,Santa Clarita,5
+US,CT,Cromwell,5
+US,AL,Montgomery,5
+US,MA,Salisbury,5
+US,MD,Silver Spring,5
+US,TX,New Braunfels,5
+US,TX,Bandera,5
+US,OH,Marietta,5
+US,MI,Lansing,5
+US,VT,Barre,5
+US,NJ,Jersey City,5
+US,TX,Denton,5
+CA,AB,Fort Macleod,5
+US,NC,Holly Springs,5
+US,FL,Boca Raton,5
+US,TN,Bristol,5
+CA,ON,Woodstock,5
+US,GA,Athens,5
+US,NY,Troy,5
+US,CO,Boulder,5
+US,NH,Nashua,5
+CA,SK,Current,5
+US,NY,Utica,5
+US,NJ,Rutherford,5
+CA,ON,Campbellford,5
+US,IN,Noblesville,5
+US,OR,Pendleton,5
+US,CA,San Bernardino,5
+US,KY,Owensboro,5
+US,TX,Galveston,5
+US,NC,Kinston,5
+US,IN,Gary,5
+US,PA,Millvale,5
+US,NY,Flushing,5
+US,CA,Salinas,5
+US,FL,Bradenton,5
+US,MT,Billings,5
+US,ND,Fargo,5
+US,NC,Edenton,5
+US,MA,Rockport,5
+US,WA,Walla Walla,5
+US,CA,Lafayette,5
+US,MA,Seekonk,5
+US,NY,11729,5
+US,CO,Bellvue,5
+US,WI,Elkhart Lake,5
+US,CA,Livermore,5
+US,MA,Northampton,5
+US,IL,Loves Park,5
+US,TX,Abilene,5
+US,CA,Pioneertown,5
+CA,ON,Hamilton,5
+US,MI,Southfield,5
+US,PA,Zelienople,5
+US,RI,East Providence,5
+US,UT,Bryce Canyon City,5
+US,NY,Patchogue,5
+US,VA,Staunton,5
+US,AZ,Mesa,5
+US,WA,Everett,5
+US,WA,Pasco,5
+CA,QC,Quebec,5
+US,CA,Visalia,5
+US,CO,Loveland,5
+US,FL,Sanford,5
+US,PA,Washington,5
+US,PA,Warminster,5
+US,IN,Terre Haute,5
+US,NC,East Flat Rock,5
+US,NY,Cairo,5
+CA,ON,Gloucester,5
+US,VA,Salem,5
+US,MA,Salem,5
+US,IN,Portage,5
+US,TX,Navasota,5
+US,WI,Wisconsin Rapids,5
+US,SC,Columbia,5
+US,CA,Sebastopol,5
+US,ND,Grand Forks,5
+US,FL,Cocoa,5
+US,MS,Jackson,5
+US,NY,Hammondsport,5
+US,IL,Berwyn,5
+CA,AB,Ponoka,5
+US,TX,McAllen,5
+US,CA,Hermosa Beach,5
+CA,AB,Leduc County,5
+US,NH,Hampton,5
+US,KY,Florence,5
+US,NY,Huntington,5
+US,IL,Des Plaines,5
+US,AR,North Little Rock,5
+US,NV,Sparks,5
+US,SC,Conway,5
+US,MD,Elkton,5
+US,TX,Beaumont,5
+US,WV,Granville,5
+US,TN,Murfreesboro,5
+CA,ON,Ontario,5
+US,TN,Pigeon Forge,5
+US,PA,Oakmont,4
+US,IL,St Charles,4
+US,NE,Papillion,4
+US,TX,Sherman,4
+US,NM,Bernalillo,4
+US,VA,Hopewell,4
+US,NY,North Tonawanda,4
+US,MD,Frederick,4
+US,NH,Gilford,4
+US,NC,Wilson,4
+US,IN,Huntingburg,4
+US,IN,Lafayette,4
+US,IN,Kokomo,4
+US,NC,Kannapolis,4
+US,OH,Eastlake,4
+US,CT,Stafford Springs,4
+US,VA,Pulaski,4
+US,IA,Allison,4
+US,MO,Cape Girardeau,4
+US,MA,Foxborough,4
+US,VA,Leesburg,4
+US,MA,Brockton,4
+US,NY,Bohemia,4
+US,MS,Pearl,4
+US,NY,Southampton,4
+US,MA,Plymouth,4
+US,MD,Waldorf,4
+US,VA,Manassas,4
+US,FL,Lakeland,4
+US,MA,Westfield,4
+CA,ON,Welland,4
+US,NC,Zebulon,4
+US,NC,Kill Devil Hills,4
+US,TX,Bryan,4
+US,CT,Newtown,4
+US,NH,Concord,4
+US,MD,North Bethesda,4
+US,NM,Roswell,4
+US,IA,Central City,4
+US,MI,Rochester,4
+US,VT,Brattleboro,4
+US,CA,Lake Elsinore,4
+US,CA,Rancho Cucamonga,4
+US,PA,McKees Rocks,4
+US,NY,Ballston Spa,4
+US,NC,Forest City,4
+US,CA,Palmdale,4
+US,MT,Great Falls,4
+US,TN,Kingsport,4
+US,MN,Chanhassen,4
+US,CA,Garden Grove,4
+US,NC,Morehead City,4
+US,NY,Levittown,4
+CA,AB,Fort Saskatchewan,4
+US,NC,Clayton,4
+US,AR,Little Rock,4
+US,MA,Lenox,4
+US,NJ,Paterson,4
+US,KS,Dodge City,4
+US,OR,Tigard,4
+US,MI,Cheboygan,4
+US,CT,Westport,4
+US,PA,Bristol,4
+US,ME,Arundel,4
+US,FL,Titusville,4
+US,CA,Saratoga,4
+US,CA,San Rafael,4
+CA,AB,Sundre,4
+US,MN,Brainerd,4
+US,IL,Danville,4
+US,TN,Jackson,4
+US,CA,Ojai,4
+US,CA,Pomona,4
+US,NY,Endicott,4
+US,WI,Ashwaubenon,4
+US,IA,Cedar Rapids,4
+US,CA,Felton,4
+US,SC,Lexington,4
+US,TX,Cleburne,4
+US,PA,Ardmore,4
+US,OK,Norman,4
+US,NC,Mt Airy,4
+US,PA,Midland,4
+US,TX,Selma,4
+US,CA,South Pasadena,4
+US,OH,Avon,4
+US,OH,Peninsula,4
+US,NC,Laurinburg,4
+US,IL,Normal,4
+US,NC,Southport,4
+US,MO,O'Fallon,4
+US,CO,Durango,4
+US,MS,Hattiesburg,4
+US,MD,Chestertown,4
+US,MS,Meridian,4
+US,WY,Jackson,4
+US,MA,Hyannis,4
+US,MD,Oxon Hill,4
+US,UT,Vernal,4
+US,MI,Adrian,4
+US,NY,Port Jefferson,4
+US,NC,Elizabeth City,4
+US,CA,El Cajon,4
+US,WA,Port Angeles,4
+US,TX,Pecos,4
+US,NJ,Hampton,4
+US,MI,Ferndale,4
+US,GA,Decatur,4
+US,MN,Buffalo,4
+US,TX,Wharton,4
+CA,ON,Niagara Falls,4
+US,WV,Sophia,4
+US,IA,Sioux City,4
+US,NY,Schenectady,4
+CA,AB,Okotoks,4
+US,WA,Issaquah,4
+US,NC,Tarboro,4
+CA,AB,Lethbridge,4
+US,MI,Three Oaks,4
+US,CA,Woodland,4
+CA,AB,Brooks,4
+US,NC,Pinehurst,4
+US,FL,Lake Buena Vista,4
+US,NV,Laughlin,4
+CA,ON,North York,4
+US,MI,East Lansing,4
+US,WI,Mequon,4
+US,FL,Dunedin,4
+US,KS,Fort Scott,4
+US,IA,Arnolds Park,4
+CA,ON,Kitchener,4
+US,NJ,West Windsor Township,4
+CA,NB,Moncton,4
+US,IL,Quincy,4
+US,NE,North Platte,4
+US,IL,Batavia,4
+CA,ON,Brampton,4
+US,FL,Hallandale Beach,4
+CA,QC,Saint-Eustache,4
+US,TN,Knoxville,4
+US,NC,Greenville,4
+CA,SK,Weyburn,4
+US,CA,Santa Rosa,4
+US,TX,Waco,4
+US,TN,Pelham,4
+CA,PE,Charlottetown,4
+US,NJ,Holmdel,4
+US,WI,Beloit,4
+US,CA,Novato,4
+US,MT,Fort Peck,4
+US,NH,Swanzey,4
+US,GA,Gainesville,4
+US,UT,South Jordan,4
+US,MO,Chesterfield,4
+US,MA,Greenfield,4
+CA,QC,Laval,4
+US,NC,Boone,4
+US,SD,Pierre,4
+US,OH,Mansfield,4
+CA,QC,Trois-Rivieres,4
+US,OR,Jacksonville,4
+US,VA,Martinsville,3
+US,TN,Elizabethton,3
+US,SC,Isle of Palms,3
+US,MN,Fergus Falls,3
+US,NC,Thomasville,3
+CA,ON,Rama,3
+US,CO,Fort Morgan,3
+US,NV,Elko,3
+US,TX,Garland,3
+US,KY,Newport,3
+US,CO,Alamosa,3
+US,KS,Bonner Springs,3
+CA,AB,High River,3
+US,CO,Evergreen,3
+US,PA,Warren,3
+US,MI,Wyandotte,3
+CA,NL,St. John's,3
+US,IN,La Porte,3
+US,WI,Green Bay,3
+US,MA,Allston,3
+US,DE,Lewes,3
+US,FL,Ybor City,3
+US,NY,Maspeth,3
+US,CO,Vail,3
+US,NJ,Trenton,3
+US,TX,Kerrville,3
+US,CA,Riverside,3
+US,LA,Lake Charles,3
+US,MI,Lake Orion,3
+CA,None,Sylvan Lake,3
+US,MA,South Deerfield,3
+US,CT,Norwalk,3
+US,TX,Helotes,3
+US,OH,Cuyahoga Falls,3
+US,CO,Lafayette,3
+CA,AB,Red Deer,3
+US,NY,Pomona,3
+US,OR,Springfield,3
+US,PA,Millersville,3
+US,FL,Weirsdale,3
+US,MD,Bel Air,3
+US,NJ,Garwood,3
+US,FL,Port St. Lucie,3
+US,CA,Half Moon Bay,3
+US,CA,Beverly Hills,3
+US,MA,Becket,3
+US,WI,Fond du Lac,3
+US,NM,Mescalero,3
+US,CA,Rocklin,3
+US,IA,Waterloo,3
+US,NJ,Lakewood,3
+US,MA,Everett,3
+US,NY,Binghamton,3
+US,TX,Cleveland,3
+US,OR,Albany,3
+CA,ON,Thunder Bay,3
+US,SC,North Augusta,3
+US,WI,Three Lakes,3
+US,NY,Central Islip,3
+US,MD,Salisbury,3
+US,GA,Colquitt,3
+US,UT,Lehi,3
+US,MI,Comstock Park,3
+US,NC,Saxapahaw,3
+US,CA,Lincoln,3
+US,PA,New Kensington,3
+US,SD,Spearfish,3
+US,CA,Vista,3
+US,MA,Beverly,3
+US,CA,Hollywood,3
+US,CA,Santa Ynez,3
+US,OH,Niles,3
+US,ME,South Portland,3
+US,CA,Petaluma,3
+US,NY,Canandaigua,3
+US,WA,Suquamish,3
+US,OH,Chagrin Falls,3
+CA,NB,Saint John,3
+US,NC,Troutman,3
+US,NY,Amsterdam,3
+US,CA,Arcadia,3
+US,GA,Marietta,3
+US,PA,Burgettstown,3
+US,PA,Glenmoore,3
+US,CA,Yreka,3
+US,TX,Nacogdoches,3
+US,WV,Wheeling,3
+US,MD,Easton,3
+US,MA,Pembroke,3
+US,OH,Wadsworth,3
+MX,JAL,Guadalajara,3
+CA,SK,Moose Jaw,3
+US,LA,Shreveport,3
+US,ID,Filer,3
+US,MN,Welch,3
+US,WI,Cadott,3
+US,CO,Greeley,3
+US,NJ,West Milford,3
+CA,ON,St. Catharines,3
+US,CA,Rancho Mirage,3
+US,OH,Warren,3
+US,MI,Interlochen,3
+US,PA,Hanover,3
+US,NY,Staten Island,3
+US,FL,New Port Richey,3
+US,NH,Rochester,3
+US,CA,Santa Clara,3
+US,NY,Bay Shore,3
+US,IL,Skokie,3
+US,GA,Toccoa,3
+US,MI,Pontiac,3
+US,CA,Santa Cruz,3
+US,WI,Crandon,3
+US,NC,Huntersville,3
+US,IA,Bellevue,3
+US,MO,Independence,3
+US,NJ,Millville,3
+CA,ON,Picton,3
+US,VT,Hartford,3
+US,NY,Bellmore,3
+US,MI,Belmont,3
+US,VT,Essex Junction,3
+US,IN,Hobart,3
+US,OR,Prineville,3
+US,CO,Arvada,3
+US,MI,Imlay City,3
+US,WI,Whitefish Bay,3
+US,MI,Clinton Township,3
+US,CA,Cabazon,3
+US,CO,Grand Junction,3
+US,MA,Natick,3
+US,TN,Franklin,3
+US,FL,St Petersburg,3
+US,MA,Webster,3
+CA,AB,Fort McMurray,3
+US,PA,Bethlehem,3
+US,IL,Winnetka,3
+US,CA,Redwood City,3
+US,CA,Marysville,3
+CA,ON,Whitby,3
+US,TX,Cedar Park,3
+US,NV,Crystal Bay,3
+CA,ON,Minesing,3
+CA,ON,Windsor,3
+US,ME,Boothbay Harbor,3
+US,MI,Charlotte,3
+US,AL,Madison,3
+US,KY,Mount Vernon,3
+US,MN,Winsted,3
+US,CA,Agoura Hills,3
+US,MO,Lake Ozark,3
+US,OH,Springfield,3
+US,FL,Pembroke Pines,3
+US,PA,Glenside,3
+US,HI,Kapolei,3
+US,NY,Bronx,3
+US,OH,North Lawrence,3
+US,CT,Torrington,3
+US,PA,Bensalem,3
+US,MN,Willmar,3
+US,NJ,Englewood,3
+US,CT,Ivoryton,3
+US,IL,Peru,3
+US,PA,Malvern,3
+US,PA,Jim Thorpe,3
+CA,ON,North Bay,3
+US,CO,Granby,3
+US,FL,Eustis,3
+US,IL,Alton,3
+US,WI,Kenosha,3
+US,WI,Merrill,3
+US,IL,Sauget,3
+US,CT,New Britain,3
+US,NJ,Berlin,3
+US,MA,Newburyport,2
+US,NJ,Hackettstown,2
+US,IN,Fishers,2
+US,WI,Stanley,2
+US,MN,Chaska,2
+US,MI,Marne,2
+US,MA,Cohasset,2
+US,NE,Ashland,2
+US,VA,McLean,2
+CA,ON,Oshawa,2
+US,FL,Bonita Springs,2
+US,FL,Estero,2
+US,MA,Great Barrington,2
+US,IN,Muncie,2
+US,GA,Braselton,2
+US,MA,Fall River,2
+US,AZ,Sahuarita,2
+US,MI,Westland,2
+US,UT,Riverton,2
+US,ID,Sandpoint,2
+US,GA,Augusta,2
+US,UT,Draper,2
+CA,BC,Nanaimo,2
+US,IL,Forest Park,2
+US,OH,Norwalk,2
+US,PR,Bayamon,2
+US,IN,Wabash,2
+US,CO,Pueblo,2
+US,MT,Bonner,2
+US,WA,Newport,2
+US,FL,Destin,2
+US,MI,Trufant,2
+US,CT,Mashantucket,2
+US,VA,New Kent,2
+CA,BC,Williams Lake,2
+US,UT,Layton,2
+US,WV,Huntington,2
+US,IL,Centralia,2
+US,VA,Bristow,2
+US,OH,Wilmington,2
+US,WA,Woodinville,2
+US,IL,Rockford,2
+US,PA,Irwin,2
+US,IL,McHenry,2
+US,MN,Little Falls,2
+US,IL,West Chicago,2
+US,FL,Tallahassee,2
+CA,ON,Peterborough,2
+US,NY,Niagara Falls,2
+US,CA,Pacifica,2
+US,WA,Airway Heights,2
+US,NJ,Montclair,2
+US,NJ,Newton,2
+CA,ON,Brantford,2
+US,IA,Cresco,2
+US,NY,Centerport,2
+US,SD,Yankton,2
+US,OK,Durant,2
+US,NC,Cary,2
+US,NY,Tarrytown,2
+US,NY,Westbury,2
+US,MA,Arlington,2
+US,PA,Phoenixville,2
+US,TX,Buda,2
+US,LA,Breaux Bridge,2
+US,IL,Tinley Park,2
+US,OH,Cleveland Heights,2
+US,VA,Rocky Mount,2
+US,MN,Granite Falls,2
+US,FL,Melbourne,2
+US,MA,Marshfield,2
+US,MI,Rochester Hills,2
+US,NE,Norfolk,2
+US,WI,54768,2
+US,IA,Fort Madison,2
+CA,SK,Prince Albert,2
+US,SC,Florence,2
+US,TN,Highway Alcoa,2
+US,OR,Sisters,2
+US,NJ,East Rutherford,2
+US,FL,Cocoa Beach,2
+US,NH,Mason,2
+US,MO,Stockton,2
+US,TX,Concan,2
+US,IN,Michigan City,2
+US,LA,Bossier City,2
+US,CO,Aurora,2
+US,MA,Oak Bluffs,2
+US,CA,Redlands,2
+CA,ON,Kincardine,2
+US,PA,North East,2
+US,OR,Redmond,2
+US,PA,Johnstown,2
+US,WY,Jackson Hole,2
+US,TX,St Jo,2
+US,NM,Ruidoso,2
+US,TX,San Marcos,2
+MX,NLE,Monterrey,2
+US,IA,Maquoketa,2
+US,NJ,West Long Branch,2
+US,SD,Rapid City,2
+US,CO,Golden,2
+US,WA,George,2
+US,CA,Sonoma,2
+US,KS,Lawrence,2
+US,NY,Bethel,2
+US,NC,Waynesville,2
+US,PA,Farmington,2
+US,NY,New Windsor,2
+CA,AB,Lloydminster,2
+US,NY,Hempstead,2
+US,GA,Hiawassee,2
+US,CA,Carson,2
+US,TX,Farmers Branch,2
+US,IL,Oak Park,2
+US,MO,Ridgedale,2
+US,WA,Colville,2
+US,NY,Granville,2
+US,SD,Huron,2
+US,ID,Driggs,2
+US,NY,Forest Hills,2
+US,MI,Saginaw,2
+US,FL,Miami Gardens,2
+CA,ON,Orangeville,2
+CA,BC,Lake Country,2
+US,MO,Maryland Heights,2
+US,IN,Nashville,2
+US,CA,El Centro,2
+US,ME,Bangor,2
+CA,ON,Guelph,2
+US,MA,Provincetown,2
+US,NY,Hudson Falls,2
+US,CA,Winterhaven,2
+US,AR,Fort Smith,2
+US,NC,Banner Elk,2
+CA,ON,Midland,2
+US,PA,West Chester,2
+US,NV,Henderson,2
+US,CA,South Lake Tahoe,2
+US,MI,Clarkston,2
+US,CA,Fontana,2
+US,FL,West Palm Beach,2
+CA,ON,Wasaga Beach,2
+US,VA,Union Hall,2
+US,OH,Hartford,2
+US,MA,Springfield,2
+US,WI,Oshkosh,2
+US,GA,Cartersville,2
+US,CA,Coronado,2
+US,MI,Lexington,2
+US,NY,Amityville,2
+US,TX,Royse City,2
+CA,ON,Bowmanville,2
+US,VA,Portsmouth,2
+US,GA,Sandy Springs,2
+US,AL,Sheffield,2
+US,NY,Watkins Glen,2
+US,MT,Belt,2
+US,NC,Burlington,2
+US,MA,North Adams,2
+US,HI,Kahului,2
+US,MD,Patuxent River,2
+US,NY,Oakdale,2
+US,CA,Downey,2
+US,TX,McKinney,2
+US,OH,Lorain,2
+US,CT,Old Saybrook,2
+US,MI,Petoskey,2
+US,AL,Marion,2
+CA,ON,Sault Ste. Marie,2
+CA,ON,Collingwood,2
+US,CA,North Hollywood,2
+US,NJ,Columbus,2
+US,WI,Maribel,2
+US,IL,Rockton,2
+US,AZ,Glendale,2
+US,OH,Canton,2
+US,IN,Gas City,2
+US,VA,Tysons,2
+US,OR,Medford,2
+US,MA,New Bedford,2
+US,NJ,Clifton,2
+CA,AB,Lacombe County,2
+US,TN,Clarksville,2
+US,AL,Scottsboro,2
+CA,AB,Sherwood Park,2
+US,NM,Sante Fe,2
+US,UT,Bluffdale,2
+US,TX,Greenville,2
+US,OR,Beaverton,2
+US,CA,Healdsburg,2
+US,NC,New Bern,2
+US,FL,Jasper,2
+US,IL,Champaign,2
+US,OK,Catoosa,2
+US,OH,Cleves,2
+US,MT,Columbia Falls,2
+US,KY,Eminence,2
+US,MN,Prior Lake,2
+US,NY,Lewiston,2
+US,NC,Shallotte,2
+US,NJ,East Brunswick,2
+CA,AB,Spruce Grove,2
+US,WV,Lewisburg,2
+US,NJ,Little Falls,2
+US,PA,Monroeville,2
+US,MA,Danvers,2
+US,KY,Covington,2
+CA,QC,Pointe-Calument,2
+US,NC,Chapel Hill,2
+US,OR,Hood River,2
+CA,BC,Kamloops,2
+US,OH,Bowling Green,2
+US,RI,East Greenwich,2
+US,NY,Kingston,2
+US,OR,Canby,2
+US,OH,Elyria,2
+US,MA,Beverly MA,2
+US,NY,Babylon,2
+US,NY,Croton-on-Hudson,2
+CA,MB,Saint Adolphe,2
+US,NJ,Fort Lee,2
+US,TX,Richardson,2
+US,NH,Lebanon,2
+CA,ON,Severn,2
+US,WV,Charles Town,2
+US,CT,Wallingford,2
+US,CA,Duncan Mills,2
+CA,ON,Huntsville,2
+US,WA,Glenwood,2
+US,TX,Granbury,2
+US,OH,Millersburg,2
+US,FL,Gainesville,2
+US,NJ,Sayreville,2
+US,IN,Plainfield,2
+US,VA,Williamsburg,2
+US,MN,Morton,2
+US,None,TBD,2
+US,MO,South Greenfield,2
+US,OH,Marion,2
+US,IN,Paoli,2
+US,CA,Lancaster,2
+US,TX,Edinburg,2
+US,PA,Quarryville,2
+US,NC,Sanford,2
+US,FL,Aventura,2
+US,IA,Edgewood,2
+US,MA,Pittsfield,2
+US,IN,Richmond,2
+US,NY,Fairport,1
+CA,BC,Chilliwack,1
+US,IA,Coralville,1
+US,IL,Crestwood,1
+US,NJ,Collingswood,1
+US,RI,Newport,1
+CA,,Hamilton,1
+US,NY,Montgomery,1
+US,ND,West Fargo,1
+US,MI,Warren,1
+CA,ON,Bala,1
+US,MA,Norwood,1
+US,NC,Reidsville,1
+CA,ON,Sudbury,1
+US,NV,Fallon,1
+US,MI,Manistee,1
+US,NJ,Haddon Township,1
+US,NC,Cornelius,1
+US,AL,Auburn,1
+US,NJ,Morristown,1
+US,WI,Franklin,1
+US,MI,Van Buren Township,1
+US,OH,Perry,1
+US,OH,New Philadelphia,1
+US,TX,San Angelo,1
+US,MA,Groton,1
+US,UT,Midvale,1
+US,MN,Arden Hills,1
+US,NE,Grand Island,1
+US,NY,Nichols,1
+US,WI,Pewaukee,1
+US,FL,Stuart,1
+CA,QC,Saint-Jerome,1
+US,IN,North Webster,1
+US,FL,DeLand,1
+US,TX,Marshall,1
+US,NE,Scottsbluff,1
+US,UT,Herriman,1
+US,AR,Fayetteville,1
+US,MI,St Clair,1
+CA,AB,Camrose,1
+CA,ON,Leamington,1
+US,PA,Scranton,1
+US,MA,Ludlow,1
+US,MA,Carver,1
+US,FL,Yankeetown,1
+US,CA,Yorba Linda,1
+US,VA,Glen Allen,1
+US,NJ,Ocean Grove,1
+US,CA,Culver City,1
+US,OR,Pacific City,1
+US,CA,Tracy,1
+US,NC,Littleton,1
+US,NH,Keene,1
+US,FL,Umatilla,1
+US,CA,Ramona,1
+CA,BC,Trail,1
+CA,ON,Sarnia,1
+US,NV,West Wendover,1
+US,WI,Union Grove,1
+US,HI,Lihue,1
+US,VA,Dumfries,1
+US,MN,Grand Rapids,1
+US,OH,Middletown,1
+US,OH,Lima,1
+US,FL,Doral,1
+US,WA,Bow,1
+US,MA,Amherst,1
+US,MT,Shepherd,1
+US,WV,Keyser,1
+US,CO,Walden,1
+US,TN,Crossville,1
+US,NY,Garden City,1
+US,NC,Asheboro,1
+US,MT,Augusta,1
+US,NE,Ponca,1
+US,CA,Morgan Hill,1
+US,KS,Park City,1
+US,NY,Lafayette,1
+US,PA,Camp Hill,1
+US,GA,Evans,1
+US,OH,Wooster,1
+US,FL,Ormond Beach,1
+US,CA,Laytonville,1
+US,ID,Meridian,1
+US,IN,Newburgh,1
+US,MI,National City,1
+US,MI,Ludington,1
+US,CT,Portland,1
+US,SC,Clemson,1
+US,TX,Luling,1
+US,NY,Batavia,1
+US,WV,Clarksburg,1
+US,IL,Yorkville,1
+US,WI,Shell Lake,1
+US,IN,Princeton,1
+US,RI,Woonsocket,1
+US,DE,Selbyville,1
+US,GA,Calhoun,1
+US,ME,Westbrook,1
+US,WA,Woodland,1
+US,WA,Shelton,1
+US,NC,Franklin,1
+US,NY,Big Flats,1
+US,ME,Hermon,1
+US,MI,Morley,1
+US,TN,Maryville,1
+US,CT,Vernon,1
+US,TX,Mission,1
+US,KY,Corbin,1
+US,NH,Hooksett,1
+US,IL,Madison,1
+US,NH,Derry,1
+US,MI,Rothbury,1
+US,WA,Ferndale,1
+US,NJ,South Orange,1
+US,NH,Laconia,1
+US,WA,Vashon,1
+CA,AB,Enoch,1
+US,PA,Lansdowne,1
+US,PA,Munhall,1
+US,NM,Hobbs,1
+US,OH,Orient,1
+CA,QC,Chambly,1
+US,CO,Dillon,1
+CA,ON,Penetanguishene,1
+US,MO,Lampe,1
+US,NY,Waterloo,1
+US,MO,Manchester,1
+US,PA,Milford,1
+US,FL,Coral Springs,1
+US,VA,Waynesboro,1
+US,MI,Gaylord,1
+US,CT,Norfolk,1
+US,NY,Verona,1
+US,PA,Stroudsburg,1
+US,TX,Lufkin,1
+US,OH,Morristown,1
+US,WV,Morgantown,1
+US,MN,St. Paul,1
+US,KS,Manhattan,1
+US,TX,Roanoke,1
+US,FL,Rockledge,1
+US,AR,El Dorado,1
+US,MN,Oakdale,1
+US,PA,Cecil,1
+US,AL,Dothan,1
+US,NY,Geneva,1
+US,GA,Swainsboro,1
+US,WI,Waunakee,1
+US,MN,Detroit Lakes,1
+US,WI,Whitewater,1
+US,TX,Cypress,1
+US,WI,Lac Du Flambeau,1
+US,TN,Lawrenceburg,1
+US,CA,Tulare,1
+US,CA,Camino,1
+US,WA,Toppenish,1
+US,AL,Florence,1
+US,IL,Monticello,1
+US,FL,For Walton Beach,1
+US,CT,West Hartford,1
+US,MS,Tunica Resorts,1
+US,OH,Rossford,1
+US,MA,Turner Falls,1
+US,IL,Dixon,1
+US,OH,Sylvania,1
+US,CT,Waterbury,1
+US,NJ,Sewell,1
+US,VA,Delaplane,1
+US,MA,Amesbury,1
+US,TX,Pearland,1
+US,WV,Princeton,1
+US,SD,Brookings,1
+US,TN,Germantown,1
+US,OH,Westerville,1
+US,MA,Sturbridge,1
+US,NY,Clayton,1
+US,VA,Newport News,1
+US,NJ,Morris Plains,1
+US,TX,Grapevine,1
+US,MA,Canton,1
+US,DE,Milford,1
+US,FL,Pompano Beach,1
+US,WV,Philippi,1
+US,MN,Stillwater,1
+US,OH,Loveland,1
+CA,ON,Parry Sound,1
+US,NJ,Union City,1
+US,TX,Huntsville,1
+US,IL,Melvin,1
+US,PA,Belle Vernon,1
+US,MI,Sterling Heights,1
+US,NC,Surf City,1
+CA,NL,St. Johns,1
+US,WI,Bayfield,1
+CA,MB,Dauphin,1
+US,SC,Newberry,1
+US,TX,Danbury,1
+US,NC,Cherokee,1
+US,NM,Taos,1
+US,CA,Oceanside,1
+US,ND,Fort Yates,1
+US,NC,Matthews,1
+US,MD,Towson,1
+US,AL,Foley,1
+US,CO,Castle Rock,1
+US,CA,San Fernando,1
+US,TX,Christoval,1
+US,IA,Winthrop,1
+MX,CMX,Mexico City,1
+US,AL,Opp,1
+US,MO,Joplin,1
+US,OR,Harrisburg,1
+US,IL,Lockport,1
+US,MN,Owatonna,1
+CA,ON,Pickering,1
+US,IL,Moline,1
+US,IL,Monee,1
+US,PA,Somerset,1
+US,RI,Pawtucket,1
+US,AL,Gardendale,1
+US,VA,Falls Church,1
+US,NM,Rio Rancho,1
+US,GA,Peachtree City,1
+US,NY,Johnstown,1
+US,ME,Naples,1
+US,TX,Spring,1
+US,CO,Snowmass Village,1
+US,OH,Newark,1
+US,IN,Westfield,1
+US,GA,Mableton,1
+US,SC,Mt Pleasant,1
+CA,NS,Sydney,1
+US,NY,White Plains,1
+US,NY,Liverpool,1
+US,AZ,Prescott,1
+US,UT,St. George,1
+US,NY,Elmont,1
+US,OR,La Pine,1
+US,CA,Los Olivos,1
+US,OR,Tillamook,1
+US,OK,Broken Bow,1
+US,TX,El Campo,1
+US,CA,Stanford,1
+US,CA,Mountain View,1
+CA,BC,Burnaby,1
+US,CA,Alameda,1
+CA,ON,Waterloo,1
+US,OH,Kent,1
+US,CA,Ukiah,1
+CA,AB,Sylvan Lake,1
+US,FL,Cutler Bay,1
+US,WA,Arlington,1
+US,MI,Houghton Lake,1
+US,VA,Marion,1
+US,CT,Norwich,1
+US,CA,Pacific Grove,1
+US,CT,Lakeville,1
+US,MN,Ogilvie,1
+US,AR,Rogers,1
+US,OH,Kettering,1
+US,FL,Oviedo,1
+US,NV,North Las Vegas,1
+CA,BC,Kaleden,1
+US,CA,Arcata,1
+US,MT,Butte,1
+US,CA,Chico,1
+US,OR,Lincoln City,1
+US,FL,Lauderhill,1
+US,FL,Ponte Vedra Beach,1
+US,MI,Shelby Township,1
+US,WA,Zillah,1
+US,CA,Campbell,1
+US,WA,Kent,1
+US,CT,East Hartford,1
+US,NC,Black Mountain,1
+US,NY,Mount Vernon NY,1
+US,WI,Slinger,1
+US,KY,Hodgenville,1
+US,TX,Conroe,1
+US,VA,Ashland,1
+US,CA,Pittsburg,1
+US,KS,Andover,1
+US,WA,Sedro-Woolley,1
+US,WA,Tukwila,1
+US,FL,Wildwood,1
+US,CA,Lodi,1
+US,MT,Livingston,1
+US,CA,Corona,1
+US,FL,Coral Gables,1
+US,KS,Topeka,1
+US,MO,Arrow Rock,1
+US,NY,Amagansett,1
+US,MD,Owings Mills,1
+US,MO,Jefferson City,1
+US,CA,Truckee,1
+CA,ON,Markham,1
+US,VA,Bristol,1
+US,VA,Chesterfield,1
+US,TX,Lake Jackson,1
+US,FL,Kissimmee,1
+US,NC,Manteo,1
+US,WI,Baileys Harbor,1
+US,RI,Smithfield,1
+US,CA,Hayward,1
+US,AZ,Queen Creek,1
+US,VA,Woodford,1
+US,CO,Lone Tree,1
+US,CO,Parker,1
+US,IL,Alsip,1
+US,IL,Byron,1
+US,AK,Fairbanks,1
+US,CO,Glendale,1
+US,MI,Coldwater,1
+US,MA,Wellfleet,1
+US,NY,Jamestown,1
+US,CT,North Haven,1
+US,TX,Temple,1
+CA,ON,Barrie,1
+US,TX,South Padre Island,1
+US,AR,Harrison,1
+US,MN,Eagan,1
+US,CO,Longmont,1
+US,IL,Bridgeview,1
+US,CO,US Air Force Academy,1
+US,WI,Fountain City,1
+US,TX,Allen,1
+US,TX,Odessa,1
+US,CA,Bellflower,1
+US,IN,West Lebanon,1
+US,GA,Valdosta,1
+US,GA,Statesboro,1
+US,NH,Woodstock,1
+US,PA,Mt Morris,1
+CA,BC,Dawson Creek,1
+US,IL,West Peoria,1
+CA,QC,Gatineau,1
+US,,Jersey City,1
+US,AK,Anchorage,1
+US,IL,Edwardsville,1
+US,IL,DeKalb,1
+US,IN,Hammond,1
+US,TX,Celina,1
+US,IA,Clear Lake,1
+US,MT,Helena,1
+US,AZ,Laveen Village,1
+US,OR,Lebanon,1
+US,CA,San Jacinto,1
+US,CA,Coarsegold,1
+US,OK,Yukon,1
+US,CA,Indio,1
+US,CA,Wheatland,1
+US,CA,Lemoore,1
+US,AK,Hope,1
+US,CA,Cerritos,1
+US,OR,Troutdale,1
+US,OR,Canyonville,1
+US,IN,Anderson,1
+US,ID,Lewiston,1
+CA,BC,Cranbrook,1
+US,CA,La Verne,1
+US,CA,Perris,1
+US,CO,Pagosa Springs,1
+US,WA,Kirkland,1
+US,IL,Lisle,1
+US,AZ,Yuma,1
+US,CO,Estes Park,1
+US,CA,Palm Desert,1
+US,CA,Seaside,1
+US,CA,San Leandro,1
+US,NM,El Prado,1
+US,TN,Buchanan,1
+US,UT,Taylorsville,1
+US,AR,Conway,1
+US,TX,Lewisville,1
+US,MI,Wayland,1
+US,MA,Foxboro,1
+US,IL,West Dundee,1
+US,MN,Brooklyn Park,1
+US,KS,Pittsburg,1
+CA,BC,Langley,1
+US,ID,Fort Hall,1
+US,CT,Ledyard,1
+US,MN,Blaine,1
+US,IL,Waukegan,1
+US,OK,Pocola,1
+US,KS,Kingman,1
+US,MA,Taunton,1
+US,TX,Crystal Beach,1
+US,IA,Dubuque,1
+US,TX,Mesquite,1
+US,TX,Bulverde,1
+US,MO,Camdenton,1
+US,IL,Sherman,1
+US,PR,Yauco,1
+US,IL,New Berlin,1
+US,IL,Island Lake,1
+US,MN,Mahnomen,1
+US,OK,Thackerville,1
+US,GA,Buford,1
+US,KY,Oak Grove,1
+US,IA,Riverside,1
+US,TX,Gail,1
+US,RI,Lincoln,1
+US,TX,Archer City,1
+US,NJ,Elizabeth,1
+US,NJ,Margate City,1
+US,WI,Cedarburg,1
+US,IL,Galesburg,1
+US,MA,Attleborough,1
+US,IL,Machesney Park,1
+US,MN,Eden Prairie,1
+US,TX,Gainseville,1
+US,MI,Standish,1
+US,VA,Doswell,1
+US,NY,Riverhead,1
+US,IL,Country Club Hills,1
+US,UT,Morgan,1
+US,PA,Lititz,1
+US,MN,Fountain,1
+US,NE,La Vista,1
+US,OH,Huber Heights,1
+US,GA,LaGrange,1
+US,NV,Jackpot,1
+US,GA,Griffin,1
+US,RI,Cranston,1
+US,NJ,Toms River,1
+US,KY,Glasgow,1
+US,NY,Peekskill,1
+US,MA,North Truro,1
+US,OK,Miami,1
+US,NJ,Carteret,1
+US,MD,Havre De Grace,1
+US,PA,Mount Pocono,1
+US,NC,Selma,1
+US,TX,Palacios,1
+US,NY,Queensbury,1
+US,VT,Greensboro,1
+US,CT,Putnam,1
+CA,ON,Meaford,1
+US,AR,Hot Springs,1
+US,MI,Free Soil,1
+US,FL,River Ranch,1
+US,MI,Bay Harbor,1
+US,PA,Greensburg,1
+US,SC,Walhalla,1
+CA,AB,Strathmore,1
+US,NJ,Pilesgrove,1
+CA,ON,Brockville,1
+US,SC,Abbeville,1
+US,TX,Coupland,1
+US,PA,Liverpool,1
+US,CT,Branford,1
+US,NY,Strykersville,1
+US,FL,St. Pete Beach,1
+US,UT,Nephi,1
+US,MA,Lynn,1
+US,NC,Elizabethtown,1
+US,PA,Bryn Mawr,1
+US,MI,Holland,1
+US,MI,Cadillac,1
+US,PA,University Park,1
+US,WA,Monroe,1
+US,MI,Harrison Twp,1
+US,TX,Hockley,1
+US,KY,New Haven,1
+US,NJ,Camden,1
+US,PA,Media,1
+US,MD,Catonsville,1
+US,VA,Purcellville,1
+US,MD,Rockville,1
+US,TX,Wylie,1
+US,WI,Oregon,1

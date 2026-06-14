@@ -1,0 +1,101 @@
+event_id,title,category_type,event_category_name,venue_name,city,state,get_in_price,stats_total_quantity,forecast_is_available,forecast_value,days_until_event,last_updated_epoch,review_score,price_score,supply_score,movement_score,forecast_score,urgency_score,staleness_score,event_utc_datetime
+37383468,Annie,THEATER,Musical,The Topfer at Zach Theatre,Austin,TX,512.0,24,False,-100.0,17,1779880020.0,0.79,1.0,0.999,1.0,0.0,0.4,1.0,2026-06-25 00:30:00+00:00
+82390162,Minnesota Lynx at Washington Mystics,SPORT,WNBA,Carefirst Arena,Washington,DC,267.0,101,True,0.67,16,1779890955.0,0.762,1.0,0.994,0.491,0.67,0.4,1.0,2026-06-24 23:30:00+00:00
+112668136,Guys and Dolls,THEATER,Musical,Surflight Theatre,Beach Haven,NJ,406.0,8,False,-100.0,18,1779864295.0,0.738,1.0,1.0,0.79,0.0,0.4,1.0,2026-06-26 00:00:00+00:00
+61397795,Guys and Dolls,THEATER,Musical,Stratford Festival Theatre,Stratford,ON,242.0,34,False,-100.0,15,1779857981.0,0.709,1.0,0.998,0.677,0.0,0.4,1.0,2026-06-23 18:00:00+00:00
+69621500,Eureka Day,THEATER,Arts and Theater,Huntington Avenue Theatre - MA,Boston,MA,177.0,36,False,-100.0,17,1779858024.0,0.698,1.0,0.998,0.632,0.0,0.4,1.0,2026-06-25 23:00:00+00:00
+103120956,Utah Shakespeare Festival - Hamlet,THEATER,Ballet and Dance,Engelstad Shakespeare Theatre,Cedar City,UT,192.0,24,False,-100.0,12,1779864264.0,0.697,1.0,0.999,0.509,0.0,0.7,1.0,2026-06-20 02:00:00+00:00
+21483482,Seattle Mariners at Pittsburgh Pirates,SPORT,MLB Baseball,PNC Park,Pittsburgh,PA,45.0,2138,True,0.01,17,1779902799.0,0.691,0.804,0.875,0.893,0.01,0.4,1.0,2026-06-25 16:35:00+00:00
+13752169,Little Women,THEATER,Musical,Guthrie Theater - Wurtele Thrust Stage,Minneapolis,MN,210.0,19,False,0.0,11,1779833101.0,0.691,1.0,0.999,0.485,0.0,0.7,1.0,2026-06-19 00:30:00+00:00
+132206613,2026 Hart of Detroit Summer Festival - Friday (6/19),CONCERT,Music Festivals,Hart Plaza,Detroit,MI,120.0,8,False,-100.0,11,1779749783.0,0.682,0.896,1.0,0.553,0.0,0.7,1.0,2026-06-19 16:00:00+00:00
+21483219,Seattle Mariners at Pittsburgh Pirates,SPORT,MLB Baseball,PNC Park,Pittsburgh,PA,43.0,2197,True,0.1,15,1779890950.0,0.677,0.768,0.872,0.825,0.1,0.4,1.0,2026-06-23 22:40:00+00:00
+7854945,Hotel California,CONCERT,Rock,Jeanne and Peter Lougheed Performing Arts Centre,Camrose,AB,161.0,36,False,0.0,11,1779879072.0,0.674,1.0,0.998,0.416,0.0,0.7,1.0,2026-06-19 01:30:00+00:00
+108268855,Wale,CONCERT,Rap/Hip Hop,Plaza Stage at Nationals Park,Washington DC,DC,149.0,22,True,0.5,14,1779879955.0,0.674,1.0,0.999,0.117,0.5,0.7,1.0,2026-06-22 00:00:00+00:00
+132209427,Brian Fallon,CONCERT,Alternative,Troubadour - West Hollywood,West Hollywood,CA,329.0,2,False,-100.0,13,1779749787.0,0.67,1.0,1.0,0.399,0.0,0.7,1.0,2026-06-21 02:00:00+00:00
+88800928,Mojo Brookzz,THEATER,Comedy,Funny Bone - Dayton,Dayton,OH,298.0,1,True,0.67,13,1779833287.0,0.67,1.0,1.0,0.0,0.67,0.7,1.0,2026-06-21 01:15:00+00:00
+92360515,Mini Kiss,CONCERT,Hard Rock,House of Independents,Asbury Park,NJ,153.0,16,False,-100.0,18,1779902107.0,0.669,1.0,0.999,0.515,0.0,0.4,1.0,2026-06-26 23:00:00+00:00
+91459907,Wale and Smino,CONCERT,Rap/Hip Hop,Plaza Stage at Nationals Park,Washington DC,DC,259.0,2,True,0.65,12,1779863833.0,0.667,1.0,1.0,0.0,0.65,0.7,1.0,2026-06-20 23:30:00+00:00
+123799889,Clare Bowen and Johnson Jackson,CONCERT,Country and Folk,Comedy Vault,Batavia,IL,306.0,6,False,-100.0,12,1779845971.0,0.663,1.0,1.0,0.371,0.0,0.7,1.0,2026-06-20 18:00:00+00:00
+127989080,NRHA Derby - Saturday,SPORT,Horse Racing,State Fair Park - OK,Oklahoma City,OK,76.0,18,False,-100.0,12,1779874644.0,0.662,1.0,0.999,0.368,0.0,0.7,1.0,2026-06-20 13:00:00+00:00
+89470563,New York Knicks at San Antonio Spurs (NBA Finals Game 7 San Antonio Home Game 4) (If Necessary),SPORT,NBA Basketball,Frost Bank Center,San Antonio,TX,4301.0,184,False,-100.0,12,1779894042.0,0.661,1.0,0.989,0.375,0.0,0.7,1.0,2026-06-20 00:30:00+00:00
+96806844,Jelly Roll,CONCERT,Country and Folk,BankNH Pavilion,Gilford,NH,198.0,428,True,0.63,13,1779901138.0,0.659,1.0,0.975,0.0,0.63,0.7,1.0,2026-06-21 23:00:00+00:00
+100654096,Rod Stewart,CONCERT,Adult Contemporary,The Show - Agua Caliente Casino,Rancho Mirage,CA,342.0,65,True,0.45,14,1779898835.0,0.656,1.0,0.996,0.076,0.45,0.7,1.0,2026-06-22 02:00:00+00:00
+21483342,Seattle Mariners at Pittsburgh Pirates,SPORT,MLB Baseball,PNC Park,Pittsburgh,PA,42.0,2130,True,0.03,16,1779898281.0,0.655,0.75,0.875,0.79,0.03,0.4,1.0,2026-06-24 22:40:00+00:00
+77736665,Titanique,THEATER,Arts and Theater,St. James Theatre New York,New York,NY,228.0,60,False,-100.0,13,1779833330.0,0.655,1.0,0.996,0.344,0.0,0.7,1.0,2026-06-21 19:00:00+00:00
+49991484,Jack Johnson,CONCERT,Pop,BankNH Pavilion,Gilford,NH,170.0,252,True,0.36,11,1779884280.0,0.636,1.0,0.985,0.058,0.36,0.7,1.0,2026-06-19 23:30:00+00:00
+119912144,Paula Poundstone,THEATER,Comedy,City Winery - St. Louis,St. Louis,MO,178.0,12,False,-100.0,12,1779881756.0,0.635,1.0,0.999,0.261,0.0,0.7,1.0,2026-06-20 22:00:00+00:00
+61836969,Diana Krall,CONCERT,Blues and Jazz,Place Des Arts - Salle Wilfrid Pelletier,Montreal,QC,141.0,10,True,0.62,18,1779858053.0,0.633,1.0,0.999,0.0,0.62,0.4,1.0,2026-06-26 23:30:00+00:00
+79188768,The Beths,CONCERT,Alternative,Cats Cradle,Carrboro,NC,169.0,10,False,-100.0,11,1779879067.0,0.63,1.0,0.999,0.241,0.0,0.7,1.0,2026-06-19 00:00:00+00:00
+109582092,Gabriel Iglesias,THEATER,Comedy,Yaamava Resort and Casino at San Manuel - Yaamava Theater,Highland,CA,204.0,104,True,0.38,13,1779884849.0,0.629,1.0,0.994,0.014,0.38,0.7,1.0,2026-06-21 03:00:00+00:00
+61396951,A Midsummer Nights Dream,THEATER,Musical,Tom Patterson Theatre,Stratford,ON,376.0,26,False,-100.0,13,1779857934.0,0.627,1.0,0.998,0.23,0.0,0.7,1.0,2026-06-21 00:00:00+00:00
+63797236,Dwight Yoakam,CONCERT,Country and Folk,Ovintiv Events Centre,Dawson Creek,BC,159.0,477,True,0.59,19,1779834664.0,0.623,1.0,0.972,0.0,0.59,0.4,1.0,2026-06-27 01:30:00+00:00
+42462757,Kenny Chesney,CONCERT,Country and Folk,Sphere at The Venetian Resort,Las Vegas,NV,398.0,252,True,0.34,13,1779884849.0,0.621,1.0,0.985,0.014,0.34,0.7,1.0,2026-06-21 03:00:00+00:00
+22321775,Ariana Grande,CONCERT,Pop,Kia Forum,Inglewood,CA,873.0,340,True,0.35,12,1779884286.0,0.62,1.0,0.98,0.007,0.35,0.7,1.0,2026-06-20 02:30:00+00:00
+60889677,Ole 60 (Rescheduled from 2/28),CONCERT,Country and Folk,First Avenue,Minneapolis,MN,97.0,6,True,0.65,13,1779891269.0,0.615,0.724,1.0,0.065,0.65,0.7,1.0,2026-06-21 00:30:00+00:00
+111573804,Its Brunch B*tch!,THEATER,Other Theater,Bricktown Comedy Club OKC,Oklahoma City,OK,112.0,12,False,-100.0,13,1779897587.0,0.613,0.659,0.999,0.512,0.0,0.7,1.0,2026-06-21 19:00:00+00:00
+104464927,Jamie Allan's Amaze,THEATER,Magic,New World Stages - Stage 5,New York,NY,161.0,32,False,-100.0,13,1779879932.0,0.612,0.947,0.998,0.223,0.0,0.7,1.0,2026-06-21 19:00:00+00:00
+89470562,New York Knicks at Oklahoma City Thunder (NBA Finals Game 7 Oklahoma City Home Game 4) (If Necessary),SPORT,NBA Basketball,Paycom Center,Oklahoma City,OK,3715.0,141,False,-100.0,12,1779897355.0,0.612,1.0,0.992,0.175,0.0,0.7,1.0,2026-06-20 00:30:00+00:00
+118823447,Amy Grant,CONCERT,Pop,Patchogue Theater,Patchogue,NY,157.0,225,True,0.29,13,1779900272.0,0.611,1.0,0.987,0.0,0.29,0.7,1.0,2026-06-21 23:00:00+00:00
+1420786,The Music Man,THEATER,Musical,Tobin Center for the Performing Arts,San Antonio,TX,184.0,22,False,0.0,17,1779880021.0,0.61,1.0,0.999,0.282,0.0,0.4,1.0,2026-06-25 00:30:00+00:00
+125716937,Ronny Chieng,THEATER,Comedy,Gotham Comedy Club,New York,NY,220.0,4,False,-100.0,12,1779879183.0,0.61,1.0,1.0,0.162,0.0,0.7,1.0,2026-06-20 22:00:00+00:00
+1391516,The Music Man,THEATER,Musical,Tobin Center for the Performing Arts,San Antonio,TX,184.0,22,False,0.0,16,1779879990.0,0.61,1.0,0.999,0.282,0.0,0.4,1.0,2026-06-24 00:30:00+00:00
+131207708,Reggaeton Rave,CONCERT,Reggae,Exchange - LA,Los Angeles,CA,115.0,4,False,-100.0,13,1779838150.0,0.608,0.858,1.0,0.296,0.0,0.7,1.0,2026-06-21 05:00:00+00:00
+131207709,Reggaeton Rave,CONCERT,Reggae,Nova SD,San Diego,CA,115.0,4,False,-100.0,13,1779838150.0,0.608,0.858,1.0,0.296,0.0,0.7,1.0,2026-06-21 05:00:00+00:00
+110019039,Bob Dylan,CONCERT,Adult Contemporary,Yaamava Resort and Casino at San Manuel - Yaamava Theater,Highland,CA,210.0,274,True,0.23,11,1779888724.0,0.606,1.0,0.984,0.021,0.23,0.7,1.0,2026-06-19 03:00:00+00:00
+121417915,Ship Wrek,CONCERT,Rap/Hip Hop,Knockdown Center,Queens,NY,167.0,12,False,-100.0,12,1779761932.0,0.604,1.0,0.999,0.137,0.0,0.7,1.0,2026-06-20 02:00:00+00:00
+61834222,Megan Moroney,CONCERT,Country and Folk,Van Andel Arena,Grand Rapids,MI,148.0,765,True,0.28,11,1779901124.0,0.604,1.0,0.955,0.003,0.28,0.7,1.0,2026-06-19 23:00:00+00:00
+40329793,Richard O'Brien's The Rocky Horror Show,THEATER,Musical,Studio 54,New York,NY,299.0,48,False,-100.0,12,1779879124.0,0.603,1.0,0.997,0.134,0.0,0.7,1.0,2026-06-20 00:00:00+00:00
+135501734,Apocalypse Zombieland - Saturday,CONCERT,Music Festivals,Queen Mary Park,Long Beach,CA,191.0,38,False,-100.0,12,1779833836.0,0.602,1.0,0.998,0.131,0.0,0.7,1.0,2026-06-20 21:00:00+00:00
+92130104,Classic Stones Live,CONCERT,Rock,Ridgefield Playhouse,Ridgefield,CT,136.0,100,False,-100.0,11,1779833092.0,0.602,1.0,0.994,0.134,0.0,0.7,1.0,2026-06-19 00:00:00+00:00
+131553745,Lucinda Williams,CONCERT,Country and Folk,Rio Theatre Santa Cruz,Santa Cruz,CA,248.0,5,False,-100.0,11,1779837322.0,0.601,1.0,1.0,0.124,0.0,0.7,1.0,2026-06-19 03:00:00+00:00
+109583821,Ragtime,THEATER,Musical,Lincoln Center - Vivian Beaumont,New York,NY,164.0,301,False,-100.0,12,1779879164.0,0.601,0.965,0.982,0.175,0.0,0.7,1.0,2026-06-20 18:00:00+00:00
+67655434,One Knoxville SC at Spokane Velocity FC,SPORT,Soccer,One Spokane Stadium,Spokane,WA,68.0,4,False,-100.0,13,1779857953.0,0.598,1.0,1.0,0.113,0.0,0.7,1.0,2026-06-21 06:59:00+00:00
+1296098,Natalia Lafourcade (Rescheduled from 9/23/2025),CONCERT,Latin Music,Arlene Schnitzer Concert Hall,Portland,OR,136.0,24,True,0.24,16,1779902299.0,0.598,1.0,0.999,0.089,0.24,0.4,1.0,2026-06-24 03:00:00+00:00
+40330197,Richard O'Brien's The Rocky Horror Show,THEATER,Musical,Studio 54,New York,NY,212.0,60,False,-100.0,12,1779879175.0,0.598,1.0,0.996,0.113,0.0,0.7,1.0,2026-06-20 19:30:00+00:00
+74637682,Gabriel Iglesias (21+ Event),THEATER,Comedy,Pipa Event Center,Winterhaven,CA,152.0,40,True,0.26,12,1779833197.0,0.598,0.894,0.998,0.062,0.26,0.7,1.0,2026-06-20 03:00:00+00:00
+48193804,Louis Tomlinson,CONCERT,Pop,Henry Maier Festival Park - BMO Harris Pavilion,Milwaukee,WI,140.0,380,True,0.41,19,1779834649.0,0.597,1.0,0.978,0.0,0.41,0.4,1.0,2026-06-27 00:00:00+00:00
+117088387,Ain't Too Proud,THEATER,Musical,Gateway Playhouse,Bellport,NY,182.0,52,False,-100.0,13,1779857955.0,0.596,1.0,0.997,0.107,0.0,0.7,1.0,2026-06-21 18:00:00+00:00
+112010221,Sean Patton,THEATER,Comedy,The Riot Comedy Club at Rudyards,Houston,TX,130.0,4,False,-100.0,12,1779883817.0,0.595,0.765,1.0,0.337,0.0,0.7,1.0,2026-06-20 00:00:00+00:00
+37808406,Savannah Bananas at Indianapolis Clowns,SPORT,Baseball,Great American Ball Park,Cincinnati,OH,166.0,322,False,-100.0,12,1779891822.0,0.595,1.0,0.981,0.113,0.0,0.7,1.0,2026-06-20 23:00:00+00:00
+1236873,Little Shop of Horrors,THEATER,Musical,Westside Theatre Upstairs - NY,New York,NY,209.0,42,False,0.0,16,1779880008.0,0.594,1.0,0.998,0.216,0.0,0.4,1.0,2026-06-24 23:00:00+00:00
+1407539,The Phantom Of The Opera,THEATER,Musical,Orpheum Theatre - San Francisco,San Francisco,CA,233.0,59,False,0.0,12,1779901775.0,0.593,1.0,0.997,0.093,0.0,0.7,1.0,2026-06-20 02:30:00+00:00
+125934340,Omar Hakim and Rachel Z - Ozmosys,CONCERT,Blues and Jazz,City Winery - Boston,Boston,MA,168.0,8,False,-100.0,14,1779843943.0,0.592,1.0,1.0,0.089,0.0,0.7,1.0,2026-06-22 23:30:00+00:00
+87640619,Dexter and the Moonrocks,CONCERT,Rock,The Bluestone,Columbus,OH,155.0,12,False,-100.0,11,1779833093.0,0.591,1.0,0.999,0.086,0.0,0.7,1.0,2026-06-19 00:00:00+00:00
+1236868,Little Shop of Horrors,THEATER,Musical,Westside Theatre Upstairs - NY,New York,NY,203.0,74,False,0.0,13,1779879919.0,0.591,1.0,0.996,0.086,0.0,0.7,1.0,2026-06-21 18:00:00+00:00
+27653780,Joshua - The Musical,THEATER,Musical,Sight and Sound Theatre Lancaster,Strasburg,PA,175.0,10,False,-100.0,11,1779778553.0,0.59,1.0,0.999,0.079,0.0,0.7,1.0,2026-06-19 23:00:00+00:00
+135498755,Apocalypse Zombieland - Friday,CONCERT,Music Festivals,Queen Mary Park,Long Beach,CA,235.0,38,False,-100.0,11,1779833830.0,0.59,1.0,0.998,0.082,0.0,0.7,1.0,2026-06-19 21:00:00+00:00
+135958171,A Boogie Wit Da Hoodie,CONCERT,Rap/Hip Hop,Stereo Garden,Patchogue,NY,171.0,2,False,0.01,12,1779864265.0,0.589,1.0,1.0,0.076,0.0,0.7,1.0,2026-06-20 04:00:00+00:00
+104465189,Jamie Allans Amaze,THEATER,Magic,New World Stages - Stage 5,New York,NY,156.0,29,False,-100.0,14,1779879970.0,0.589,0.918,0.998,0.162,0.0,0.7,1.0,2026-06-22 23:00:00+00:00
+42892043,2026 Tailgate N' Tallboys - Saturday,CONCERT,Music Festivals,Tailgate N Tallboys - Midland,Midland,MI,350.0,4,False,-100.0,12,1779879151.0,0.589,1.0,1.0,0.076,0.0,0.7,1.0,2026-06-20 04:00:00+00:00
+112667161,Guys and Dolls,THEATER,Musical,Surflight Theatre,Beach Haven,NJ,406.0,8,False,-100.0,17,1779864288.0,0.588,1.0,1.0,0.192,0.0,0.4,1.0,2026-06-25 00:00:00+00:00
+72779106,The Play That Goes Wrong,THEATER,Arts and Theater,Bagley Wright Theatre,Seattle,WA,233.0,13,False,-100.0,12,1779832418.0,0.586,1.0,0.999,0.065,0.0,0.7,1.0,2026-06-20 21:00:00+00:00
+68130392,The Lunchbox,THEATER,Arts and Theater,Berkeley Repertory - Roda Theatre,Berkeley,CA,189.0,25,False,-100.0,14,1779894055.0,0.586,1.0,0.999,0.065,0.0,0.7,1.0,2026-06-22 02:00:00+00:00
+84567698,Hot Mulligan,CONCERT,Alternative,Murat Egyptian Room at Old National Centre,Indianapolis,IN,131.0,55,True,0.0,12,1779879587.0,0.585,0.978,0.997,0.086,0.0,0.7,1.0,2026-06-20 22:30:00+00:00
+96804642,Gin Blossoms,CONCERT,Rock,Rivers Casino Des Plaines,Des Plaines,IL,162.0,16,False,-100.0,12,1779894043.0,0.585,1.0,0.999,0.062,0.0,0.7,1.0,2026-06-20 01:00:00+00:00
+124648035,Dave Hollister,CONCERT,R&B,City Winery - Nashville,Nashville,TN,157.0,30,False,-100.0,11,1779851479.0,0.584,1.0,0.998,0.058,0.0,0.7,1.0,2026-06-19 23:00:00+00:00
+118390678,Major League Rugby Championship,SPORT,Rugby,SeatGeek Stadium,Bridgeview,IL,61.0,15,False,-100.0,13,1779856655.0,0.584,1.0,0.999,0.055,0.0,0.7,1.0,2026-06-21 13:00:00+00:00
+124648036,Dave Hollister,CONCERT,R&B,City Winery - Nashville,Nashville,TN,157.0,36,False,-100.0,12,1779851482.0,0.584,1.0,0.998,0.058,0.0,0.7,1.0,2026-06-20 02:30:00+00:00
+115965427,Duets with Dad,CONCERT,Pop,Sheldon Concert Hall,St. Louis,MO,141.0,5,False,-100.0,13,1779850448.0,0.583,1.0,1.0,0.052,0.0,0.7,1.0,2026-06-21 00:30:00+00:00
+63795020,Forrest Frank,CONCERT,Pop,Gainbridge Fieldhouse,Indianapolis,IN,128.0,418,True,0.15,12,1779901130.0,0.583,0.955,0.976,0.027,0.15,0.7,1.0,2026-06-20 23:00:00+00:00
+46414082,OAR,CONCERT,Alternative,Gerald Ford Amphitheatre,Vail,CO,141.0,119,True,0.08,12,1779831828.0,0.583,1.0,0.993,0.01,0.08,0.7,1.0,2026-06-20 00:30:00+00:00
+132206611,Iredell County Rodeo - 2 Day Pass (6/19 - 6/20),SPORT,Rodeo,Iredell County Fairgrounds,Troutman,NC,109.0,6,False,-100.0,11,1779749784.0,0.582,1.0,1.0,0.048,0.0,0.7,1.0,2026-06-19 22:59:00+00:00
+10871552,Reno Rodeo,SPORT,Rodeo,Reno Livestock Events Center,Reno,NV,137.0,75,False,0.0,12,1779833203.0,0.582,1.0,0.996,0.052,0.0,0.7,1.0,2026-06-20 06:59:00+00:00
+45967367,August Wilson's Joe Turner's Come and Gone,THEATER,Broadway,Barrymore Theatre-NY,New York,NY,209.0,191,False,-100.0,11,1779856599.0,0.582,1.0,0.989,0.055,0.0,0.7,1.0,2026-06-19 23:00:00+00:00
+133565863,Vidyasagar,CONCERT,World Music,Great Canadian Casino Resort Toronto,Toronto,ON,191.0,254,False,-100.0,12,1779867217.0,0.581,1.0,0.985,0.055,0.0,0.7,1.0,2026-06-20 21:00:00+00:00
+43323453,Grand Ole Opry,CONCERT,Country and Folk,Grand Ole Opry House,Nashville,TN,114.0,903,True,0.2,11,1779879062.0,0.58,0.851,0.947,0.113,0.2,0.7,1.0,2026-06-19 00:00:00+00:00
+65961388,Jackson Hole Rodeo,SPORT,Rodeo,Jackson Hole Rodeo,Jackson Hole,WY,160.0,25,False,-100.0,13,1779857946.0,0.58,1.0,0.999,0.041,0.0,0.7,1.0,2026-06-21 02:00:00+00:00
+29557444,Winstock Country Music Festival - Saturday,CONCERT,Music Festivals,Winstock Country Music Festival Grounds,Winsted,MN,295.0,8,False,-100.0,12,1779758762.0,0.58,1.0,1.0,0.041,0.0,0.7,1.0,2026-06-20 17:00:00+00:00
+115743810,Demolition Derby,SPORT,Other Sports,Alamosa Fair and Rodeo Grounds,Alamosa,CO,59.0,88,False,-100.0,13,1779889990.0,0.58,1.0,0.995,0.045,0.0,0.7,1.0,2026-06-21 00:30:00+00:00
+132210932,Marcello Hernandez,THEATER,Comedy,Walt Disney Theater at Dr Phillips Center,Orlando,FL,172.0,226,False,0.27,13,1779883829.0,0.58,1.0,0.987,0.052,0.0,0.7,1.0,2026-06-21 23:30:00+00:00
+10667648,Snake River Stampede,SPORT,Rodeo,Ford Idaho Center Arena,Nampa,ID,87.0,88,False,0.0,12,1779833183.0,0.58,1.0,0.995,0.045,0.0,0.7,1.0,2026-06-20 01:30:00+00:00
+61834871,Megan Moroney,CONCERT,Country and Folk,Scotiabank Arena,Toronto,ON,242.0,154,True,0.02,12,1779884845.0,0.579,1.0,0.991,0.031,0.02,0.7,1.0,2026-06-20 23:00:00+00:00
+17465599,Dear Evan Hansen,THEATER,Arts and Theater,The Phoenix Theatre Company - Hormel Theatre,Phoenix,AZ,171.0,3,False,0.0,12,1779833223.0,0.579,1.0,1.0,0.038,0.0,0.7,1.0,2026-06-20 21:00:00+00:00
+45522881,Reno Rodeo - PRCA Xtreme Bulls,SPORT,Rodeo,Reno Livestock Events Center,Reno,NV,92.0,80,False,-100.0,11,1779856587.0,0.579,1.0,0.995,0.041,0.0,0.7,1.0,2026-06-19 02:00:00+00:00
+10667591,Snake River Stampede,SPORT,Rodeo,Ford Idaho Center Arena,Nampa,ID,76.0,80,False,0.0,11,1779879073.0,0.579,1.0,0.995,0.038,0.0,0.7,1.0,2026-06-19 01:30:00+00:00
+85003730,America,CONCERT,Rock,Capital One Hall,Tysons,VA,283.0,14,False,-100.0,12,1779833244.0,0.578,1.0,0.999,0.034,0.0,0.7,1.0,2026-06-20 23:00:00+00:00
+109583822,Ragtime,THEATER,Musical,Lincoln Center - Vivian Beaumont,New York,NY,193.0,409,False,-100.0,13,1779879611.0,0.578,1.0,0.976,0.052,0.0,0.7,1.0,2026-06-21 00:00:00+00:00
+82823324,Bryce Canyon Country Rodeo,SPORT,Rodeo,Ruby's Inn Rodeo Grounds,Bryce Canyon City,UT,50.0,14,False,-100.0,12,1779808040.0,0.578,0.893,0.999,0.141,0.0,0.7,1.0,2026-06-20 05:59:00+00:00
+82822563,Bryce Canyon Country Rodeo,SPORT,Rodeo,Ruby's Inn Rodeo Grounds,Bryce Canyon City,UT,50.0,14,False,-100.0,11,1779807726.0,0.578,0.893,0.999,0.141,0.0,0.7,1.0,2026-06-19 05:59:00+00:00
+109584869,Ragtime,THEATER,Musical,Lincoln Center - Vivian Beaumont,New York,NY,202.0,606,False,-100.0,13,1779879928.0,0.578,1.0,0.965,0.062,0.0,0.7,1.0,2026-06-21 19:00:00+00:00
+82605702,Frozen - The Musical,THEATER,Musical,UC Davis Health Pavilion,Sacramento,CA,151.0,54,False,-100.0,13,1779879650.0,0.578,0.888,0.997,0.144,0.0,0.7,1.0,2026-06-21 02:30:00+00:00
+113100946,Matt Andersen,CONCERT,Blues and Jazz,Majestic Theatre - Newfoundland,St. John's,NL,138.0,4,False,-100.0,12,1779824676.0,0.577,1.0,1.0,0.027,0.0,0.7,1.0,2026-06-20 22:30:00+00:00

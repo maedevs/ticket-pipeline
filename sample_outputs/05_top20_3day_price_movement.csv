@@ -1,0 +1,21 @@
+event_id,title,category_type,direction,percent_change,raw_change,get_in_price,event_utc_datetime
+37383468,Annie,THEATER,up,291.0,2.91,512.0,2026-06-25 00:30:00+00:00
+21483482,Seattle Mariners at Pittsburgh Pirates,SPORT,up,260.0,2.6,45.0,2026-06-25 16:35:00+00:00
+21483219,Seattle Mariners at Pittsburgh Pirates,SPORT,up,240.0,2.4,43.0,2026-06-23 22:40:00+00:00
+112668136,Guys and Dolls,THEATER,up,230.0,2.3,406.0,2026-06-26 00:00:00+00:00
+21483342,Seattle Mariners at Pittsburgh Pirates,SPORT,up,230.0,2.3,42.0,2026-06-24 22:40:00+00:00
+117091367,Royal and The Serpent,CONCERT,up,200.0,2.0,54.0,2026-06-26 01:00:00+00:00
+61397795,Guys and Dolls,THEATER,up,197.0,1.97,242.0,2026-06-23 18:00:00+00:00
+69621500,Eureka Day,THEATER,up,184.0,1.84,177.0,2026-06-25 23:00:00+00:00
+132206613,2026 Hart of Detroit Summer Festival - Friday (6/19),CONCERT,up,161.0,1.61,120.0,2026-06-19 16:00:00+00:00
+92360515,Mini Kiss,CONCERT,up,150.0,1.5,153.0,2026-06-26 23:00:00+00:00
+111573804,Its Brunch B*tch!,THEATER,up,149.0,1.49,112.0,2026-06-21 19:00:00+00:00
+103120956,Utah Shakespeare Festival - Hamlet,THEATER,up,148.0,1.48,192.0,2026-06-20 02:00:00+00:00
+82390162,Minnesota Lynx at Washington Mystics,SPORT,up,143.0,1.43,267.0,2026-06-24 23:30:00+00:00
+13752169,Little Women,THEATER,up,141.0,1.41,210.0,2026-06-19 00:30:00+00:00
+21483087,Los Angeles Angels at Athletics,SPORT,up,122.0,1.22,47.0,2026-06-21 20:05:00+00:00
+7854945,Hotel California,CONCERT,up,121.0,1.21,161.0,2026-06-19 01:30:00+00:00
+132209427,Brian Fallon,CONCERT,up,116.0,1.16,329.0,2026-06-21 02:00:00+00:00
+21483096,Minnesota Twins at Arizona Diamondbacks,SPORT,up,114.0,1.14,49.0,2026-06-21 19:15:00+00:00
+100201962,moe. with Umphreys McGee,CONCERT,up,113.0,1.13,24.0,2026-06-20 23:00:00+00:00
+21482904,Minnesota Twins at Arizona Diamondbacks,SPORT,up,113.0,1.13,39.0,2026-06-21 02:10:00+00:00

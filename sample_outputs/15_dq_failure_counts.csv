@@ -1,0 +1,25 @@
+check_name,severity,status,affected_count,details
+event_utc_datetime_parseable,ERROR,PASS,0,
+malformed_events,ERROR,PASS,0,
+feed_status_success,ERROR,PASS,0,
+feed_files_have_metadata,ERROR,PASS,0,
+ticket_quantity_non_negative,ERROR,PASS,0,
+get_in_price_numeric,ERROR,PASS,0,
+event_id_present,ERROR,PASS,0,
+event_id_unique_in_events_table,ERROR,PASS,0,
+stats_last_updated_at_parseable,ERROR,PASS,0,
+malformed_files,ERROR,PASS,0,
+event_datetime_parseable,ERROR,PASS,0,
+event_datetime_utc_consistency,WARNING,PASS,0,
+pagination_offset_gaps,WARNING,PASS,0,
+venue_slug_present,WARNING,PASS,0,
+performer_slug_present,WARNING,PASS,0,
+pagination_record_count_matches,WARNING,PASS,0,
+price_change_direction_sign_match,WARNING,PASS,0,
+forecast_sentinel_not_treated_as_prediction,WARNING,PASS,0,
+mock_data_points_present,WARNING,PASS,0,
+stats_last_updated_stale,WARNING,FAIL,14000,"('Fathers Day Comedy Show', datetime.datetime(2026, 5, 25, 17, 37, 9, tzinfo=<StaticTzInfo 'Etc/UTC'>), 333.1588269188889); ('The Return Of The King - An Unrivaled Tribute To Elvis', datetime.datetime(2026, 5, 25, 17, 50, 15, tzinfo=<StaticTzInfo 'Etc/UTC'>), 332.94049358555554); ('Luis Figueroa', datetime.datetime(2026, 5, 25, 17, 50, 15, tzinfo=<StaticTzInfo 'Etc/UTC'>), 332.94049358555554); ('Masquerade NYC', datetime.datetime(2026, 5, 25, 17, 50, 15, tzinfo=<StaticTzInfo 'Etc/UTC'>), 332.94049358555554); ('Luke Combs UK - Tribute to Luke Combs', datetime.datetime(2026, 5, 25, 17, 50, 16, tzinfo=<StaticTzInfo 'Etc/UTC'>), 332.9402158077778)"
+get_in_price_zero_flagged,WARNING,FAIL,2401,"(118395300, 'Mummies of the World - The Exhibition', 'THEATER'); (107380652, 'Anvil', 'CONCERT'); (77111137, '2026 Ten Mile Creek Revival - 3 Day Pass (6/26 - 6/28)', 'CONCERT'); (65963734, 'Evo Championship Series - Friday', 'SPORT'); (130361235, 'HotWax', 'CONCERT')"
+suspicious_large_price_change,WARNING,FAIL,251,"('Iceboy - The Musical', 30, 'up', 14004.0, 140.04); ('Iceboy - The Musical', 30, 'up', 12334.0, 123.34); ('Iceboy - The Musical', 14, 'up', 11150.0, 111.5); ('Iceboy - The Musical', 30, 'up', 10518.0, 105.18); ('Iceboy - The Musical', 30, 'up', 10518.0, 105.18); ('Iceboy - The Musical', 14, 'up', 10518.0, 105.18); ('Iceboy - The Musical', 14, 'up', 10518.0, 105.18); ('2026 Taylor Fest - (6/19)', 14, 'up', 2096.0, 20.96); ('2026 Taylor Fest - (6/19)', 30, 'up', 2096.0, 20.96); ('Cinderella - The Musical', 7, 'up', 580.0, 5.8)"
+price_change_insufficient_data_handled,INFO,PASS,0,
+forecast_unavailable_has_sentinel,INFO,FAIL,1395,

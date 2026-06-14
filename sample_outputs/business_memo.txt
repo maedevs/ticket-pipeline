@@ -1,0 +1,58 @@
+================================================================================
+RTK TICKETS — FEED ANALYSIS MEMO
+Generated: 2026-06-08T14:46:45.606662+00:00
+================================================================================
+
+DATASET OVERVIEW
+----------------
+Source files ingested : 140
+Total events loaded   : 14,000
+Unique venues         : 4,095
+Unique performers     : 5,420
+Date range            : 2026-05-27 to 2026-06-26
+
+KEY FINDINGS
+------------
+
+1. CATEGORY MIX
+   The dominant category is THEATER (6,348 events).
+   See output 01 for full breakdown across all categories and sub-categories.
+
+2. GEOGRAPHIC CONCENTRATION
+   Las Vegas, NV leads with 1,136 events.
+   International events are present but represent a small share of the feed.
+
+3. PRICING HIGHLIGHTS
+   Highest get-in price: 10,581 USD — "Iceboy - The Musical"
+   2,401 events show get_in_price = 0. These are NOT assumed to be
+   free tickets; they likely represent sold-out listings or data gaps and
+   should be excluded from pricing analysis or investigated before use.
+
+4. MARKET FRESHNESS
+   14,000 events have stats_last_updated_at older than 48 hours.
+   These should be treated with caution for real-time pricing decisions.
+
+5. FORECAST COVERAGE
+   5.4% of events have a valid (non-sentinel) forecast value.
+   Note: forecast_value = -1 or -100 is a sentinel for "not available";
+   these values are excluded from all forecast analysis.
+
+6. PRICE MOVEMENT ANOMALIES
+   154 events show at least one price-change window with
+   >100% movement. These are flagged in output 13 and the pricing review
+   score and warrant manual review before acting on the data.
+
+7. DATA QUALITY
+   3 quality checks returned FAIL or WARNING status.
+   See output 15 (data_quality_results) for full details.
+
+RECOMMENDATIONS
+---------------
+- Investigate zero-price events before including them in any market analysis.
+- Review the 154 events flagged for extreme price movement;
+  these may reflect data errors rather than genuine market moves.
+- Prioritise refreshing stale stats before time-sensitive buy/sell decisions.
+- Expand forecast model coverage — currently below full population coverage.
+- Implement offset continuity monitoring to detect missing feed pages early.
+
+================================================================================
